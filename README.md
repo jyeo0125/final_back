@@ -15,13 +15,13 @@
 
 
 # MVP
-1. user singup
-2. user login
-3. user create post
+1. user singup v
+2. user login v
+3. user create post v
 4. user edit post
-5. user delete post
+5. user delete post v
 6. comments from other user(login required)
-7. Route protected Nav_bar
+7. Route protected Nav_bar v
 
 # Strach goal
 
